@@ -1,0 +1,23 @@
+- title: Getting started
+  url: /getting-started
+  items:
+    - title: Contributing
+      url: /getting-started/contributing
+    - title: Markdown Syntax
+      url: /getting-started/markdown-syntax
+- title: Guidelines
+  url: /guidelines
+  items:
+    - title: Typography
+      url: /guidelines/typography
+    - title: Accessibility
+      url: /guidelines/accessibility
+- title: Components
+  url: /components
+  items:
+    - title: Alerts
+      url: /components/alerts
+    - title: Buttons
+      url: /components/buttons
+- title: About
+  url: /about
